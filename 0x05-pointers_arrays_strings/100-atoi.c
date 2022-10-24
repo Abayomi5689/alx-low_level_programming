@@ -13,7 +13,7 @@ int i, minus, result;
 i = minus = result = boolean = 0;
 minus = -1;
 
- while (s[i]!= '\0')
+while (s[i] != '\0')
 {
 if (s[i] == '-')
 minus *= -1;
