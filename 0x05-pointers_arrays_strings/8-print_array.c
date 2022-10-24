@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
 
 /**
@@ -8,7 +8,7 @@
  * Return: void
  */
 
-void print_array(int *a, nt n)
+void print_array(int *a, int n)
 {
 	int i, count;
 
